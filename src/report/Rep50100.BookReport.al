@@ -16,7 +16,7 @@ report 50100 "BookReport"
                 RequestFilterFields = "No.", Description;
                 column(No_Book; "No.") { IncludeCaption = true; }
                 column(Title_Book; Description) { IncludeCaption = true; }
-                //column(Page_Count_Book; "Page Count") { IncludeCaption = true; }
+                column(NoOfPages_Book; "No. of Pages") { IncludeCaption = true; }
                 column(Autor_Book; Author) { IncludeCaption = true; }
             }
         }
