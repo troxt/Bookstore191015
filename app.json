@@ -1,0 +1,26 @@
+{
+  "id": "a892c182-f1aa-4f3c-a8ca-dbfca6e90f8d",
+  "name": "BookStore191015",
+  "publisher": "get&use Academy GmbH",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "guALogo.png",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "14.0.0.0",
+  "application": "14.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://BookStore191015.com/help/",
+  "showMyCode": true,
+  "runtime": "3.0"
+}
